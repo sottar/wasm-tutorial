@@ -1,5 +1,5 @@
 [package]
-name = "wasm-tutrial"
+name = "wasm-tutorial"
 version = "0.1.0"
 authors = ["sottar <ohrst.18@gmail.com>"]
 edition = "2018"

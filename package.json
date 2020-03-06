@@ -1,5 +1,5 @@
 {
-  "name": "wasm-tutrial",
+  "name": "wasm-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sottar/wasm-tutrial.git"
+    "url": "git+https://github.com/sottar/wasm-tutorial.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sottar/wasm-tutrial/issues"
+    "url": "https://github.com/sottar/wasm-tutorial/issues"
   },
-  "homepage": "https://github.com/sottar/wasm-tutrial#readme"
+  "homepage": "https://github.com/sottar/wasm-tutorial#readme"
 }
